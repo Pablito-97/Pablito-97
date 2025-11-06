@@ -10,7 +10,7 @@ I’m Pablo — building Konea (Android). I design and ship mobile features with
   - Pitch deck: /docs/pitch-deck.pdf
 - 🤝 Want to collaborate? Check CONTRIBUTING.md and open an issue labeled good first issue.
 
-## Cómo empezar
+## How to start
 1. git clone https://github.com/PabloMobileCraft/konea.app
 2. Open in Android Studio; run in Demo Mode  
 3. See DEVELOPMENT.md and README.md for environment and build setup
