@@ -16,7 +16,7 @@ I’m Pablo — building Konea (Android). I design and ship mobile features with
 3. See DEVELOPMENT.md and README.md for environment and build setup
 
 ## Contact
-Email: pablomancanoe@gmail.com · LinkedIn: https://www.linkedin.com/in/pablo-nieto-ruiz
+Email: pablozamoranos@gmail.com · LinkedIn: https://www.linkedin.com/in/pablo-nieto-ruiz
 
 > Pinned projects: Konea · prototypes
 
