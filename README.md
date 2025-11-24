@@ -5,13 +5,13 @@ I’m Pablo — building Konea (Android). I design and ship mobile features with
 - 🔭 Currently building: Konea (mobile app) — demo mode & onboardingg
 - ⚡ Latest release: v0.1 (docs + demo)
 - 🧭 Quick links:  
-  - Repo: https://github.com/PabloMobileCraft/konea  
+  - Repo: [https://github.com/PabloMobileCraft/konea](https://github.com/Pablito-97/konea-app)  
   - Demo GIF / APK: /docs/demo.gif  
   - Pitch deck: /docs/pitch-deck.pdf
 - 🤝 Want to collaborate? Check CONTRIBUTING.md and open an issue labeled good first issue.
 
 ## How to start
-1. git clone https://github.com/PabloMobileCraft/konea.app
+1. git clone https://github.com/Pablito-97/konea-app
 2. Open in Android Studio; run in Demo Mode  
 3. See DEVELOPMENT.md and README.md for environment and build setup
 
